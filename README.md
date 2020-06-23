@@ -1,5 +1,5 @@
-# Reproducible-research-project-1
-Data Science Specialization - Johns Hopkins University - Reproducible-research-project-1
+## Reproducible-research-project-1
+### Data Science Specialization - Johns Hopkins University - Reproducible-research-project-1
 ===============================
 
 The goal of this assignment is to create processed data which is reproducible by third parties. The elements that you will find in this repository are as follows:  
